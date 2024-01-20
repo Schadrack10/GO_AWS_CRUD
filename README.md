@@ -1,4 +1,7 @@
 # GO_AWS_CRUD
+Hii im shakes! , if you wish you become a golang pro ,follow these steps ..Good luck!!
+
+
 Golang CRUD application intergrated with aws dynamo DB
 
 # First, make sure you have the aws-sdk-go package installed:
